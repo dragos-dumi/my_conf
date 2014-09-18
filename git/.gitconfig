@@ -64,7 +64,6 @@
 	cm = commit -m
 	cem = commit --allow-empty -m
 	cam = commit -am
-	cd = commit --amend
 	cad = commit -a --amend
 	ced = commit --allow-empty --amend
 	#############
