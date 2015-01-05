@@ -1,0 +1,9 @@
+{
+    "require": {
+        "drush/drush": "dev-master",
+        "phpunit/phpunit": "4.4.*",
+        "phpmd/phpmd": "2.1.*",
+        "drupal/coder": "7.2.*",
+        "squizlabs/PHP_CodeSniffer": "<2"
+    }
+}
